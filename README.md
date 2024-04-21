@@ -5,6 +5,9 @@
 
 # Hey 👋, I'm Zhenghao He!  
   
+<a href="https://zhenghao-he.github.io/" target="_blank">
+<img src=https://img.shields.io/badge/homepage-%230F9D58?&style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white alt=homepage style="margin-bottom: 5px;" />
+</a>  
 <a href="https://scholar.google.com/citations?user=lLCtLikAAAAJ" target="_blank">
 <img src=https://img.shields.io/badge/googlescholar-%230F9D58?&style=for-the-badge&logo=googlescholar&logoColor=white alt=googlescholar style="margin-bottom: 5px;" />
 </a>  
