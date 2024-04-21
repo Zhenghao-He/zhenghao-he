@@ -22,7 +22,7 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 
-### Glad to see you here!  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Glad+to+see+you+here!)](https://git.io/typing-svg)
 I am now a senior student at [Tongji University](https://en.tongji.edu.cn/p/#/), majoring in Computer Science and Technology. My research interests primarily lie in Machine Learning, Nature Language Processing and Bioinformatics.🚀 I actively participated in relevant research and published relevant [articles](https://scholar.google.com/citations?user=lLCtLikAAAAJ&hl=en) during my undergraduate studies.👨‍💻
 </div>  
   
