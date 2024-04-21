@@ -6,7 +6,7 @@
 # Hey 👋, I'm Zhenghao He!  
   
 <a href="https://scholar.google.com/citations?user=lLCtLikAAAAJ" target="_blank">
-<img src=https://img.shields.io/badge/googlescholar-%4285F4?&style=for-the-badge&logo=googlescholar&logoColor=white alt=googlescholar style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/googlescholar-%234285F4?&style=for-the-badge&logo=googlescholar&logoColor=white alt=googlescholar style="margin-bottom: 5px;" />
 </a>  
 <a href="https://linkedin.com/in/hzh-zhenghao" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
