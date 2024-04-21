@@ -26,7 +26,8 @@
 ### Glad to see you here!
 I am now a senior student at [Tongji University](https://en.tongji.edu.cn/p/#/), majoring in Computer Science and Technology. My research interests primarily lie in Machine Learning, Nature Language Processing and Bioinformatics.🚀 I actively participated in relevant research and published relevant [articles](https://scholar.google.com/citations?user=lLCtLikAAAAJ&hl=en) during my undergraduate studies.👨‍💻
 </div>  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=2000&random=false&width=1435&lines=I+am+now+a+senior+student+at+Tongji+University%2C+majoring+in+Computer+Science+and+Technology.;+My+research+interests+primarily+lie+in+Machine+Learning%2C+Nature+Language+Processing+and+Bioinformatics.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=2000&random=false&width=1435&lines=I+am+now+a+senior+student+at+Tongji+University%2C+majoring+in+Computer+Science+and+Technology.;+My+research+interests+primarily+lie+in+Machine+Learning%2C+Nature+Language+Processing+and+Bioinformatics.)](https://git.io/typing-svg)
 
 - 🔭 I’m currently interning at Alibaba, working on the [Alibaba Cloud](https://www.alibabacloud.com/) team!  
   
