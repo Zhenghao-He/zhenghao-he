@@ -23,7 +23,7 @@
 </a>  
 
 ### Glad to see you here!  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+now+a+senior+student+at+%5BTongji+University%5D(https%3A%2F%2Fen.tongji.edu.cn%2Fp%2F%23%2F)%2C+majoring+in+Computer+Science+and+Technology.+My+research+interests+primarily+lie+in+Machine+Learning%2C+Nature+Language+Processing+and+Bioinformatics.%F0%9F%9A%80+I+actively+participated+in+relevant+research+and+published+relevant+%5Barticles%5D(https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DlLCtLikAAAAJ%26hl%3Den)+during+my+undergraduate+studies.%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+now+a+senior+student+at+Tongji+University%2C+majoring+in+Computer+Science+and+Technology.+My+research+interests+primarily+lie+in+Machine+Learning%2C+Nature+Language+Processing+and+Bioinformatics.%F0%9F%9A%80+I+actively+participated+in+relevant+research+and+published+relevant+%5Barticles%5D(https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DlLCtLikAAAAJ%26hl%3Den)+during+my+undergraduate+studies.%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 </div>  
   
 
