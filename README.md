@@ -3,8 +3,6 @@
 </div>  
   
 
-
-
 ## <div align="center">I'm Zhenghao He, a senior student at [Tongji University](https://en.tongji.edu.cn/p/#/), majoring in Computer Science and Technology.  👨‍💻 My research interests primarily lie in Machine Learning, Nature Language Processing and Bioinformatics. 🚀
 </div>  
   
