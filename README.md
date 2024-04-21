@@ -1,7 +1,9 @@
 <div align="center">
-<img src="./greetings.gif" align="center" style="width: 70%" />
+<img src="./greetings.gif" align="center" style="width: 50%" />
 </div>  
   
+
+
 
 ## <div align="center">I'm Zhenghao He, a senior student at [Tongji University](https://en.tongji.edu.cn/p/#/), majoring in Computer Science and Technology.  👨‍💻 My research interests primarily lie in Machine Learning, Nature Language Processing and Bioinformatics. 🚀
 </div>  
@@ -71,4 +73,5 @@
 <br/>  
 
 
-
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
