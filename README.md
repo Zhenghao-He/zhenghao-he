@@ -3,7 +3,27 @@
 </div>  
   
 
-## <div align="center">I'm Zhenghao He, a senior student at [Tongji University](https://en.tongji.edu.cn/p/#/), majoring in Computer Science and Technology.  👨‍💻 My research interests primarily lie in Machine Learning, Nature Language Processing and Bioinformatics. 🚀
+## Hey 👋, I'm Zhenghao He!  
+  
+
+<a href="https://linkedin.com/in/hzh-zhenghao" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/61558344376723" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Zhenghao-He" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCT85nmV8ZYqa_zrwWcjkbnQ" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/24135151/zhenghao-he" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+
+### Glad to see you here!  
+I am now a senior student at [Tongji University](https://en.tongji.edu.cn/p/#/), majoring in Computer Science and Technology. My research interests primarily lie in Machine Learning, Nature Language Processing and Bioinformatics.🚀 I actively participated in relevant research and published relevant [articles](https://scholar.google.com/citations?user=lLCtLikAAAAJ&hl=en) during my undergraduate studies.👨‍💻
 </div>  
   
 
@@ -51,19 +71,11 @@
 <br/>  
 
 
-# Connect with me  
-<div align="center">
-<a href="https://github.com/Zhenghao-He" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/hzh-zhenghao" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
   
 
-<br/>  
-## Github Stats  
+
+# Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Zhenghao-He&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
