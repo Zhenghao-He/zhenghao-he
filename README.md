@@ -3,7 +3,7 @@
 </div>  
   
 
-## Hey 👋, I'm Zhenghao He!  
+# Hey 👋, I'm Zhenghao He!  
   
 
 <a href="https://linkedin.com/in/hzh-zhenghao" target="_blank">
