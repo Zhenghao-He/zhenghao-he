@@ -29,7 +29,7 @@
 
 
 ### Glad to see you here!
-I am now a senior student at [Tongji University](https://en.tongji.edu.cn/p/#/), majoring in Computer Science and Technology. My research interests primarily lie in Machine Learning, Nature Language Processing and Bioinformatics.🚀 I actively participated in relevant research and published relevant [articles](https://scholar.google.com/citations?user=lLCtLikAAAAJ&hl=en) during my undergraduate studies.👨‍💻
+I am now a senior student at [Tongji University](https://en.tongji.edu.cn/p/#/), majoring in Computer Science and Technology. My research interests primarily lie in Affective Computing, Brain Science and Bioinformatics.🚀 I actively participated in relevant research and published relevant [articles](https://scholar.google.com/citations?user=lLCtLikAAAAJ&hl=en) during my undergraduate studies.👨‍💻
 </div>  
 
 
