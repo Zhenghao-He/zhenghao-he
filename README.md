@@ -35,18 +35,16 @@
 </a>
 
 ### Glad to see you here!
-I am now a senior student at [Tongji University](https://en.tongji.edu.cn/p/#/), majoring in Computer Science and Technology. My research interests primarily lie in Affective Computing, Brain Science and Bioinformatics.🚀 I actively participated in relevant research and published relevant [articles](https://scholar.google.com/citations?user=lLCtLikAAAAJ&hl=en) during my undergraduate studies.👨‍💻
+I am now a Ph.D. student at [the University of Virginia](https://www.virginia.edu/), majoring in Computer Science. My research interests primarily lie in Affective Computing, Brain Science and Bioinformatics.🚀 I actively participated in relevant research and published relevant [articles](https://scholar.google.com/citations?user=lLCtLikAAAAJ&hl=en).👨‍💻
 </div>  
 
 
-- 🔭 I’m currently interning at Alibaba, working on the [Alibaba Cloud](https://www.alibabacloud.com/) team!  
-  
+
 
 - 🌱 Currently, I am working on projects related to EEG signal visualization and fatigue detection.  
   
 
-- ⚡ Looking forward, I will be a Ph.D. student at [University of Virginia](https://www.virginia.edu/) majoring in Computer Science in Fall 2024.  
-  
+
 
 <br/>  
 
