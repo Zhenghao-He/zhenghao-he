@@ -35,7 +35,7 @@
 </a>
 
 ### Glad to see you here!
-I am now a Ph.D. student at [the University of Virginia](https://www.virginia.edu/), majoring in Computer Science. My research interests primarily lie in Affective Computing, Brain Science and Bioinformatics.🚀 I actively participated in relevant research and published relevant [articles](https://scholar.google.com/citations?user=lLCtLikAAAAJ&hl=en).👨‍💻
+I am now a Ph.D. student at [the University of Virginia](https://www.virginia.edu/), majoring in Computer Science.
 </div>  
 
 
